@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [3412-permutation-difference-between-two-strings](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3412-permutation-difference-between-two-strings) |
 | [4008-restore-finishing-order](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/4008-restore-finishing-order) |
 ## Simulation
 |  |
@@ -41,4 +42,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [3412-permutation-difference-between-two-strings](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3412-permutation-difference-between-two-strings) |
 <!---LeetCode Topics End-->
