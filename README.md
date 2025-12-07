@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
 |  |
