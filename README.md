@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0459-repeated-substring-pattern) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3412-permutation-difference-between-two-strings) |
 | [3447-clear-digits](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3447-clear-digits) |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3447-clear-digits](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3447-clear-digits) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
