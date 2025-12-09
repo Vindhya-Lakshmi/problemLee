@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0861-flipping-an-image](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0861-flipping-an-image) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1524-string-matching-in-an-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1524-string-matching-in-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1677-matrix-diagonal-sum) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [4008-restore-finishing-order](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/4008-restore-finishing-order) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0459-repeated-substring-pattern) |
+| [1524-string-matching-in-an-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1524-string-matching-in-an-array) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3412-permutation-difference-between-two-strings) |
 | [3447-clear-digits](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3447-clear-digits) |
@@ -61,4 +63,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0459-repeated-substring-pattern) |
+| [1524-string-matching-in-an-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
