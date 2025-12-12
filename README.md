@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0861-flipping-an-image](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0861-flipping-an-image) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1524-string-matching-in-an-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1524-string-matching-in-an-array) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3412-permutation-difference-between-two-strings) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [4008-restore-finishing-order](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/4008-restore-finishing-order) |
