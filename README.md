@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0628-maximum-product-of-three-numbers) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0861-flipping-an-image](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0861-flipping-an-image) |
 | [1319-unique-number-of-occurrences](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1319-unique-number-of-occurrences) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0628-maximum-product-of-three-numbers) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Greedy
 |  |
