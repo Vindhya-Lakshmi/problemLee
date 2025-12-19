@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0628-maximum-product-of-three-numbers) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0861-flipping-an-image](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0861-flipping-an-image) |
+| [0941-sort-array-by-parity](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0941-sort-array-by-parity) |
 | [1319-unique-number-of-occurrences](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1319-unique-number-of-occurrences) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1524-string-matching-in-an-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1524-string-matching-in-an-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0861-flipping-an-image) |
+| [0941-sort-array-by-parity](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0941-sort-array-by-parity) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0628-maximum-product-of-three-numbers) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0941-sort-array-by-parity](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0941-sort-array-by-parity) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Greedy
 |  |
