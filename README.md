@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1524-string-matching-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1677-matrix-diagonal-sum](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1677-matrix-diagonal-sum) |
+| [3334-apple-redistribution-into-boxes](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3334-apple-redistribution-into-boxes) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [4008-restore-finishing-order](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/4008-restore-finishing-order) |
 | [4058-compute-alternating-sum](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/4058-compute-alternating-sum) |
@@ -97,10 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0958-sort-array-by-parity-ii) |
 | [1306-minimum-absolute-difference](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1306-minimum-absolute-difference) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [3334-apple-redistribution-into-boxes](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3334-apple-redistribution-into-boxes) |
 ## Greedy
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0561-array-partition) |
+| [3334-apple-redistribution-into-boxes](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3334-apple-redistribution-into-boxes) |
 ## Counting Sort
 |  |
 | ------- |
