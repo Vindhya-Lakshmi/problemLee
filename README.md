@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0958-sort-array-by-parity-ii) |
 | [1306-minimum-absolute-difference](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1319-unique-number-of-occurrences) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1524-string-matching-in-an-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1524-string-matching-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0861-flipping-an-image](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0898-transpose-matrix) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1677-matrix-diagonal-sum) |
 ## String
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0658-find-k-closest-elements) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Sliding Window
 |  |
 | ------- |
