@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0898-transpose-matrix) |
 | [0941-sort-array-by-parity](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0958-sort-array-by-parity-ii) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1306-minimum-absolute-difference](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1319-unique-number-of-occurrences) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1319-unique-number-of-occurrences) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3412-permutation-difference-between-two-strings) |
