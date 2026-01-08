@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1297-maximum-number-of-balloons) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1524-string-matching-in-an-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1524-string-matching-in-an-array) |
+| [1532-reformat-the-string](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1532-reformat-the-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3412-permutation-difference-between-two-strings) |
 | [3447-clear-digits](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3447-clear-digits) |
