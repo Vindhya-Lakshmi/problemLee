@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0647-palindromic-substrings](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0658-find-k-closest-elements) |
 | [0861-flipping-an-image](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0874-backspace-string-compare) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0290-word-pattern) |
 | [0459-repeated-substring-pattern](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0459-repeated-substring-pattern) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0647-palindromic-substrings](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0647-palindromic-substrings) |
 | [0807-custom-sort-string](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0807-custom-sort-string) |
 | [0857-positions-of-large-groups](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0857-positions-of-large-groups) |
 | [0874-backspace-string-compare](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0874-backspace-string-compare) |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0347-top-k-frequent-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
