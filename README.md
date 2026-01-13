@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1524-string-matching-in-an-array) |
 | [1532-reformat-the-string](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1532-reformat-the-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1666-make-the-string-great](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1666-make-the-string-great) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3412-permutation-difference-between-two-strings) |
 | [3447-clear-digits](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3447-clear-digits) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0874-backspace-string-compare) |
+| [1666-make-the-string-great](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1666-make-the-string-great) |
 | [3447-clear-digits](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3447-clear-digits) |
 ## String Matching
 |  |
