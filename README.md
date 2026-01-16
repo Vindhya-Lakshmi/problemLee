@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0958-sort-array-by-parity-ii) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1217-relative-sort-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1217-relative-sort-array) |
+| [1256-rank-transform-of-an-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1256-rank-transform-of-an-array) |
 | [1284-four-divisors](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1284-four-divisors) |
 | [1306-minimum-absolute-difference](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1319-unique-number-of-occurrences) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-custom-sort-string](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0807-custom-sort-string) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1217-relative-sort-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1217-relative-sort-array) |
+| [1256-rank-transform-of-an-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1256-rank-transform-of-an-array) |
 | [1297-maximum-number-of-balloons](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1319-unique-number-of-occurrences) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0958-sort-array-by-parity-ii) |
 | [1217-relative-sort-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1217-relative-sort-array) |
+| [1256-rank-transform-of-an-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1306-minimum-absolute-difference) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3334-apple-redistribution-into-boxes) |
