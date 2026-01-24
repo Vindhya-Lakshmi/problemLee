@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1524-string-matching-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1677-matrix-diagonal-sum](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1677-matrix-diagonal-sum) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3351-maximize-happiness-of-selected-children) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1019-squares-of-a-sorted-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1306-minimum-absolute-difference) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3351-maximize-happiness-of-selected-children) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0561-array-partition) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Counting Sort
