@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3334-apple-redistribution-into-boxes](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3334-apple-redistribution-into-boxes](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -253,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 <!---LeetCode Topics End-->
