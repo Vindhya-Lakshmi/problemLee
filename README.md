@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3334-apple-redistribution-into-boxes](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3351-maximize-happiness-of-selected-children) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Bit Manipulation
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3334-apple-redistribution-into-boxes](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3351-maximize-happiness-of-selected-children) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0658-find-k-closest-elements) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
