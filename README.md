@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3351-maximize-happiness-of-selected-children](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3769-sort-integers-by-binary-reflection](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/3769-sort-integers-by-binary-reflection/) | Easy |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [4008-restore-finishing-order](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/4008-restore-finishing-order) |
 | [4058-compute-alternating-sum](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/4058-compute-alternating-sum) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3334-apple-redistribution-into-boxes](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3769-sort-integers-by-binary-reflection](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/3769-sort-integers-by-binary-reflection/) | Easy |
 | [4107-find-missing-elements](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/4107-find-missing-elements) |
 ## Greedy
 | Problem Name | Difficulty |
