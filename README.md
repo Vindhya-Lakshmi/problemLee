@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [1013-fibonacci-number](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1013-fibonacci-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1284-four-divisors](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1284-four-divisors) |
 | [1399-count-largest-group](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1399-count-largest-group/) | Easy |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1630-count-odd-numbers-in-an-interval-range) |
