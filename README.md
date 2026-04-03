@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0898-transpose-matrix) |
 | [0941-sort-array-by-parity](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0958-sort-array-by-parity-ii) |
+| [0997-find-the-town-judge](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0997-find-the-town-judge/) | Easy |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1019-squares-of-a-sorted-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1019-squares-of-a-sorted-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0496-next-greater-element-i/) | Easy |
 | [0807-custom-sort-string](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0807-custom-sort-string) |
+| [0997-find-the-town-judge](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0997-find-the-town-judge/) | Easy |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1217-relative-sort-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1256-rank-transform-of-an-array) |
@@ -278,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0997-find-the-town-judge](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0997-find-the-town-judge/) | Easy |
 <!---LeetCode Topics End-->
