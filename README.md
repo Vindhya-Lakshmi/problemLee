@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0075-sort-colors/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -286,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0997-find-the-town-judge](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0997-find-the-town-judge/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
