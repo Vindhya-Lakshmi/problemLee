@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3351-maximize-happiness-of-selected-children](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3769-sort-integers-by-binary-reflection](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/3769-sort-integers-by-binary-reflection/) | Easy |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [4008-restore-finishing-order](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/4008-restore-finishing-order) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3412-permutation-difference-between-two-strings) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [4008-restore-finishing-order](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/4008-restore-finishing-order) |
 | [4107-find-missing-elements](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/4107-find-missing-elements) |
