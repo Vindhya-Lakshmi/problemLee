@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0496-next-greater-element-i/) | Easy |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0496-next-greater-element-i/) | Easy |
 | [0807-custom-sort-string](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0807-custom-sort-string) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0075-sort-colors/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0561-array-partition](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0658-find-k-closest-elements) |
