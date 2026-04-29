@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0206-reverse-linked-list](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0206-reverse-linked-list/) | Easy |
 | [1013-fibonacci-number](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1013-fibonacci-number) |
 ## Memoization
 | Problem Name | Difficulty |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0206-reverse-linked-list](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0206-reverse-linked-list/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
