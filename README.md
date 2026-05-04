@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0861-flipping-an-image](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0861-flipping-an-image) |
 ## Matrix
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0658-find-k-closest-elements) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0226-invert-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0226-invert-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
