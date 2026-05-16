@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1512-number-of-good-pairs](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1524-string-matching-in-an-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1524-string-matching-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1677-matrix-diagonal-sum](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1677-matrix-diagonal-sum) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1319-unique-number-of-occurrences) |
 | [1399-count-largest-group](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1399-count-largest-group/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1284-four-divisors](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1284-four-divisors) |
 | [1399-count-largest-group](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1399-count-largest-group/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0347-top-k-frequent-elements) |
 | [1297-maximum-number-of-balloons](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1297-maximum-number-of-balloons) |
 | [1399-count-largest-group](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1399-count-largest-group/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
 | Problem Name | Difficulty |
