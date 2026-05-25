@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1297-maximum-number-of-balloons](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1319-unique-number-of-occurrences) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1399-count-largest-group](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1399-count-largest-group/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0874-backspace-string-compare) |
 | [1297-maximum-number-of-balloons](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1297-maximum-number-of-balloons) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1524-string-matching-in-an-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1524-string-matching-in-an-array) |
 | [1532-reformat-the-string](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1532-reformat-the-string) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0347-top-k-frequent-elements) |
 | [1297-maximum-number-of-balloons](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1297-maximum-number-of-balloons) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1399-count-largest-group](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1399-count-largest-group/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
