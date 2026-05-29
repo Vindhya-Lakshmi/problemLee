@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3334-apple-redistribution-into-boxes](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1399-count-largest-group](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1399-count-largest-group/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
 | Problem Name | Difficulty |
