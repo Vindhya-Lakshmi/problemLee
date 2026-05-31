@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0647-palindromic-substrings](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0796-rotate-string](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0796-rotate-string/) | Easy |
 | [0807-custom-sort-string](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0807-custom-sort-string) |
 | [0857-positions-of-large-groups](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0857-positions-of-large-groups) |
 | [0874-backspace-string-compare](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0874-backspace-string-compare) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0796-rotate-string/) | Easy |
 | [1524-string-matching-in-an-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Sorting
