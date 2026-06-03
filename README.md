@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0070-climbing-stairs/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0070-climbing-stairs/) | Easy |
 | [0647-palindromic-substrings](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0647-palindromic-substrings) |
 | [1013-fibonacci-number](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0070-climbing-stairs/) | Easy |
 | [1013-fibonacci-number](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1013-fibonacci-number) |
 ## Monotonic Stack
 | Problem Name | Difficulty |
