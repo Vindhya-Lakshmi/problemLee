@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0075-sort-colors/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0118-pascals-triangle](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0118-pascals-triangle/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0414-third-maximum-number) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0070-climbing-stairs/) | Easy |
+| [0118-pascals-triangle](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0118-pascals-triangle/) | Easy |
 | [0647-palindromic-substrings](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0647-palindromic-substrings) |
 | [1013-fibonacci-number](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1013-fibonacci-number) |
 ## Recursion
