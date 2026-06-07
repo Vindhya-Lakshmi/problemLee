@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0075-sort-colors/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0009-palindrome-number/) | Easy |
+| [0048-rotate-image](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0070-climbing-stairs/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0628-maximum-product-of-three-numbers) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0048-rotate-image/) | Medium |
 | [0861-flipping-an-image](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0898-transpose-matrix) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
