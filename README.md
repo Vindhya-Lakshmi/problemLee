@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2784-check-if-array-is-good](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0898-transpose-matrix) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3447-clear-digits](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3447-clear-digits) |
 | [4058-compute-alternating-sum](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/4058-compute-alternating-sum) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
