@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0070-climbing-stairs/) | Easy |
 | [0231-power-of-two](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0231-power-of-two/) | Easy |
+| [0326-power-of-three](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0326-power-of-three/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0326-power-of-three](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0326-power-of-three/) | Easy |
 | [1013-fibonacci-number](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1013-fibonacci-number) |
 ## Memoization
 | Problem Name | Difficulty |
