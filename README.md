@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3769-sort-integers-by-binary-reflection](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/3769-sort-integers-by-binary-reflection/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [4008-restore-finishing-order](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/4008-restore-finishing-order) |
 | [4058-compute-alternating-sum](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/4058-compute-alternating-sum) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3447-clear-digits](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3447-clear-digits) |
+| [3838-weighted-word-mapping](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/3838-weighted-word-mapping/) | Easy |
 | [4058-compute-alternating-sum](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/4058-compute-alternating-sum) |
 ## Math
 | Problem Name | Difficulty |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3412-permutation-difference-between-two-strings](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3412-permutation-difference-between-two-strings) |
 | [3447-clear-digits](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3447-clear-digits) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3838-weighted-word-mapping](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
