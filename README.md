@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0001-two-sum/) | Easy |
+| [0202-happy-number](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0347-top-k-frequent-elements) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0070-climbing-stairs/) | Easy |
+| [0202-happy-number](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0326-power-of-three/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0628-maximum-product-of-three-numbers) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0015-3sum](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0075-sort-colors/) | Medium |
+| [0202-happy-number](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0344-reverse-string](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0344-reverse-string/) | Easy |
 | [0647-palindromic-substrings](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0647-palindromic-substrings) |
