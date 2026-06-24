@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0485-max-consecutive-ones) |
+| [0491-non-decreasing-subsequences](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0496-next-greater-element-i/) | Easy |
 | [0561-array-partition](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0628-maximum-product-of-three-numbers) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0491-non-decreasing-subsequences](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0496-next-greater-element-i/) | Easy |
 | [0807-custom-sort-string](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0807-custom-sort-string) |
 | [0997-find-the-town-judge](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0997-find-the-town-judge/) | Easy |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0231-power-of-two](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0342-power-of-four/) | Easy |
+| [0491-non-decreasing-subsequences](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0861-flipping-an-image](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0861-flipping-an-image) |
 ## Matrix
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0039-combination-sum) |
 | [0257-binary-tree-paths](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0257-binary-tree-paths/) | Easy |
+| [0491-non-decreasing-subsequences](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0491-non-decreasing-subsequences/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
