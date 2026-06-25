@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3769-sort-integers-by-binary-reflection](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/3769-sort-integers-by-binary-reflection/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3412-permutation-difference-between-two-strings](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3412-permutation-difference-between-two-strings) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [4008-restore-finishing-order](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/4008-restore-finishing-order) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1399-count-largest-group](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1399-count-largest-group/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1512-number-of-good-pairs/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
 | Problem Name | Difficulty |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0347-top-k-frequent-elements) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -366,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -427,4 +432,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 <!---LeetCode Topics End-->
