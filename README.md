@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0001-two-sum/) | Easy |
+| [0014-longest-common-prefix](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0048-rotate-image/) | Medium |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0014-longest-common-prefix/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0257-binary-tree-paths/) | Easy |
 | [0290-word-pattern](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0290-word-pattern) |
@@ -440,4 +442,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
