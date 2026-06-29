@@ -1,0 +1,15 @@
+/**
+ * @param {string[]} patterns
+ * @param {string} word
+ * @return {number}
+ */
+var numOfStrings = function(patterns, word) {
+    let count = 0
+
+    for(let ch of patterns){
+        if(word.includes(ch)){
+            count++
+        }
+    }
+        return count
+};
