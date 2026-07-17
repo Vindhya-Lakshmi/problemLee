@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0075-sort-colors/) | Medium |
+| [0125-valid-palindrome](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0125-valid-palindrome/) | Easy |
 | [0202-happy-number](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0344-reverse-string](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0344-reverse-string/) | Easy |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0014-longest-common-prefix/) | Easy |
+| [0125-valid-palindrome](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0257-binary-tree-paths/) | Easy |
 | [0290-word-pattern](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0290-word-pattern) |
