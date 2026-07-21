@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0496-next-greater-element-i/) | Easy |
+| [0771-jewels-and-stones](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0771-jewels-and-stones/) | Easy |
 | [0807-custom-sort-string](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0807-custom-sort-string) |
 | [0997-find-the-town-judge](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0997-find-the-town-judge/) | Easy |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0647-palindromic-substrings](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0771-jewels-and-stones](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0796-rotate-string/) | Easy |
 | [0807-custom-sort-string](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0807-custom-sort-string) |
 | [0857-positions-of-large-groups](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0857-positions-of-large-groups) |
