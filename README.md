@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1532-reformat-the-string](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1532-reformat-the-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1666-make-the-string-great](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1666-make-the-string-great) |
+| [1859-sorting-the-sentence](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1859-sorting-the-sentence/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1833-maximum-ice-cream-bars](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1859-sorting-the-sentence](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1859-sorting-the-sentence/) | Easy |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
