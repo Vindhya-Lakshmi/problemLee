@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1019-squares-of-a-sorted-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1019-squares-of-a-sorted-array) |
+| [1122-relative-sort-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1122-relative-sort-array/) | Easy |
 | [1217-relative-sort-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1256-rank-transform-of-an-array) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-custom-sort-string](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0807-custom-sort-string) |
 | [0997-find-the-town-judge](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0997-find-the-town-judge/) | Easy |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1122-relative-sort-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1122-relative-sort-array/) | Easy |
 | [1217-relative-sort-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1256-rank-transform-of-an-array) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1019-squares-of-a-sorted-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1019-squares-of-a-sorted-array) |
+| [1122-relative-sort-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1122-relative-sort-array/) | Easy |
 | [1217-relative-sort-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1306-minimum-absolute-difference) |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0561-array-partition) |
+| [1122-relative-sort-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1122-relative-sort-array/) | Easy |
 | [1217-relative-sort-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1217-relative-sort-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Binary Search
@@ -475,4 +479,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1122-relative-sort-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1122-relative-sort-array/) | Easy |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1122-relative-sort-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1122-relative-sort-array/) | Easy |
 <!---LeetCode Topics End-->
