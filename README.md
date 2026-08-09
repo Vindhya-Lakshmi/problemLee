@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1524-string-matching-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1677-matrix-diagonal-sum](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1677-matrix-diagonal-sum) |
+| [1710-maximum-units-on-a-truck](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1710-maximum-units-on-a-truck](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1859-sorting-the-sentence](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1859-sorting-the-sentence/) | Easy |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
+| [1710-maximum-units-on-a-truck](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1988-minimize-maximum-pair-sum-in-array) |
