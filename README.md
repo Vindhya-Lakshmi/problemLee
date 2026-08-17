@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0412-fizz-buzz/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0861-flipping-an-image](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0874-backspace-string-compare) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0342-power-of-four/) | Easy |
+| [0412-fizz-buzz](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0412-fizz-buzz/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0257-binary-tree-paths/) | Easy |
 | [0290-word-pattern](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0344-reverse-string/) | Easy |
+| [0412-fizz-buzz](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0412-fizz-buzz/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0459-repeated-substring-pattern) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0647-palindromic-substrings](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0647-palindromic-substrings) |
