@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-custom-sort-string](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0807-custom-sort-string) |
 | [0857-positions-of-large-groups](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0857-positions-of-large-groups) |
 | [0874-backspace-string-compare](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0874-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1108-defanging-an-ip-address](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1297-maximum-number-of-balloons](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1297-maximum-number-of-balloons) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0496-next-greater-element-i/) | Easy |
 | [0874-backspace-string-compare](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0874-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1666-make-the-string-great](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/1666-make-the-string-great) |
 | [3447-clear-digits](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3447-clear-digits) |
@@ -500,4 +502,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1122-relative-sort-array](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1122-relative-sort-array/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
