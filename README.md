@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/2942-find-words-containing-character/) | Easy |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2784-check-if-array-is-good](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3334-apple-redistribution-into-boxes](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3334-apple-redistribution-into-boxes) |
@@ -510,4 +512,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 <!---LeetCode Topics End-->
