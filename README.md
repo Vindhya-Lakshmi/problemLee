@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0075-sort-colors/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0118-pascals-triangle/) | Easy |
+| [0136-single-number](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0136-single-number/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0414-third-maximum-number) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0136-single-number/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0231-power-of-two](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0231-power-of-two/) | Easy |
 | [0338-counting-bits](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0338-counting-bits/) | Easy |
