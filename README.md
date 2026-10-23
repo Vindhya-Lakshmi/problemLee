@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3351-maximize-happiness-of-selected-children](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0861-flipping-an-image](https://github.com/Vindhya-Lakshmi/problemLee/tree/master/0861-flipping-an-image) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Vindhya-Lakshmi/problemLee/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
